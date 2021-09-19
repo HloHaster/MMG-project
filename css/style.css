@@ -316,6 +316,7 @@ body {
 
 .footer__contact-block:last-of-type img {
     margin-left: 2px;
+    float: left;
 }
 
 .footer__contact-block span, .footer__contact-block p {
@@ -324,13 +325,11 @@ body {
     width: 256px;
 }
 
-.footer__contact-block:last-of-type img {
-    float: left;
-}
-
 .footer__contact-block p {
     float: right;
 }
+
+
 
 
 .clr {
